@@ -1,0 +1,1 @@
+print(webcam.read())
