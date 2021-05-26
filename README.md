@@ -6,6 +6,8 @@ Der Code hat ein einfaches Arbeitsprinzip. Diejenigen, die es versuchen wollen; 
 
 Um das Gesicht der Person zu identifizieren, führen Sie gesicht_besimmt.py aus und geben Sie den Namen der Person ein, deren Gesicht gespeichert wird.
 
-Nach diesem Vorgang öffnet sich Ihre Kamera und speichert 150 Bilder (diese Nummer kann in gesicht_bestimmt.py geändert werden).
+Nach diesem Vorgang öffnet sich Ihre Kamera und speichert 120 Bilder (diese Nummer kann in gesicht_bestimmt.py geändert werden).
 
 Nach Abschluss dieses Vorgangs werden durch Ausführen von gesicht_erkennen.py die Gesichter im Bereich der Kamera erkannt und benannt.
+
+*Nachdem Sie gesicht_erkennen.py ausgeführt haben, müssen Sie das Popup-Fenster mit der Taste 'ESC' schließen.*
