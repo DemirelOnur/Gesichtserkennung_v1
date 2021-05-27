@@ -20,6 +20,5 @@ Installationsanforderungen
 
 ```
 pip install -r requirements.txt
-
 ```
 
